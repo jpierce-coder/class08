@@ -18,4 +18,4 @@ function checkQual([vEasyNum, vEasyNum2, easyNum, easyNum2, mediumNum, mediumNum
 
 // checkQual([4, 4, 8, 8, 12, 12, 19, 19]);
 
-checkQual([12, 12, 12, 12, 15, 15, 20, 20])
+checkQual([12, 12, 12, 12, 18, 18, 20, 20])
